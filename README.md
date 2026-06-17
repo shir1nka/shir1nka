@@ -254,7 +254,7 @@ HTML/CSS    █░░░░░░░░░░░░░░░░░   2.5%
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shir1nka/shir1nka/output/github-contribution-grid-snake-dark.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/shir1nka/shir1nka/master/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
 ---
