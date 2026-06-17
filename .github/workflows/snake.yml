@@ -28,4 +28,4 @@ jobs:
         run: |
           git config --unset-all http.https://github.com/.extraheader || true
           git remote set-url origin https://shir1nka:${GH_PAT}@github.com/shir1nka/shir1nka.git
-          git push origin master
+          git push --force origin master
